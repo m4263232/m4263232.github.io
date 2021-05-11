@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coding-pages-bucket-3566231-8803166-17558-605996-1253625226.cos-website.ap-hongkong.myqcloud.com</id>
-    <title>MJH博客</title>
-    <updated>2021-05-11T09:26:05.716Z</updated>
+    <title>青山_BLOG</title>
+    <updated>2021-05-11T09:45:32.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coding-pages-bucket-3566231-8803166-17558-605996-1253625226.cos-website.ap-hongkong.myqcloud.com"/>
     <link rel="self" href="https://coding-pages-bucket-3566231-8803166-17558-605996-1253625226.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
     <subtitle>若结局非你所愿，就在尘埃落定前奋力一搏。</subtitle>
     <logo>https://coding-pages-bucket-3566231-8803166-17558-605996-1253625226.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
     <icon>https://coding-pages-bucket-3566231-8803166-17558-605996-1253625226.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, MJH博客</rights>
+    <rights>All rights reserved 2021, 青山_BLOG</rights>
     <entry>
         <title type="html"><![CDATA[基于Gridea+github/coding搭建静态博客]]></title>
         <id>https://coding-pages-bucket-3566231-8803166-17558-605996-1253625226.cos-website.ap-hongkong.myqcloud.com/post/ji-yu-grideagithubcoding-da-jian-jing-tai-bo-ke/</id>

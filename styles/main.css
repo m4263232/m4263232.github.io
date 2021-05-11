@@ -3098,3 +3098,12 @@ a {
 .vinput::placeholder {
   color: white;
 }
+
+      .sitename {
+        color: #212529;
+      }
+    
+        .sitename{
+          font-family: kaiti;
+        }
+      
